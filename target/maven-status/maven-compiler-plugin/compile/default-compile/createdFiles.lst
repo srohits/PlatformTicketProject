@@ -1,0 +1,8 @@
+com/ttnd/workshop/entities/User.class
+com/ttnd/workshop/dao/impl/UserDaoImpl.class
+com/ttnd/workshop/controllers/RegistrationController.class
+com/ttnd/workshop/controllers/LoginController.class
+com/ttnd/workshop/dao/UserDao.class
+com/ttnd/workshop/utils/HibernateUtil.class
+com/ttnd/workshop/controllers/MyProfileController.class
+com/ttnd/workshop/controllers/HelloServlet.class
